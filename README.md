@@ -1,0 +1,2 @@
+# labWebSiteInfoStore
+此仓库用于存储实验室网站所需要存储的数据
